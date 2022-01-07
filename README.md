@@ -3,8 +3,11 @@ This is a bit more designed web page than the previous one i have uploaded.
 
 
 Used Technologies
+
 • HTML5
+
 • CSS3
+
 Screenshots
 ![Screenshot (149)](https://user-images.githubusercontent.com/87437738/148553509-9c6b0193-1406-42a8-a332-95642837a6bd.png)
 Hobbies page:
